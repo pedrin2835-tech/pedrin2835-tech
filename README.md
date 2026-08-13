@@ -50,6 +50,3 @@
 
 <img align="right" alt="Pedro-Yoda" height="150" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hl.gif">
 
-## 🐍 Snake Animation
-
-![Snake animation](https://raw.githubusercontent.com/pedrin2835-tech/pedrin2835-tech/output/github-contribution-grid-snake.svg)
