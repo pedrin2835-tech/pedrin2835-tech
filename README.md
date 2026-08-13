@@ -52,4 +52,4 @@
 
 ## 🐍 Snake Animation
 
-![Snake animation](https://github.com/pedrin2835-tech/pedrin2835-tech/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/pedrin2835-tech/pedrin2835-tech/output/github-contribution-grid-snake.svg)
